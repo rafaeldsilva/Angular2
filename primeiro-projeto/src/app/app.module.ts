@@ -7,6 +7,8 @@ import { HomeComponent } from './home/home.component';
 import { SobreComponent } from './sobre/sobre.component';
 import { ContatoComponent } from './contato/contato.component';
 import { ServicoComponent } from './servico/servico.component';
+import { Routes, RouterModule } from '@angular/router';
+
 
 
 @NgModule({
